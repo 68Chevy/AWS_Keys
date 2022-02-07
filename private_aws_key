@@ -1,9 +1,0 @@
-Your last keys were compromised.  This is your last set.  You must safeguard these keys iaw the guidelines set forth in your indoc.
-
-Failure to safeguard these keys will result in your termination.  Encrypt and Password per the instructions in your packet.
-
-[default]
-aws_access_key_id = AKIAXYZDQCENWJV6SJHK
-aws_secret_access_key = gb2lUMblNX9KHGMtW1uS11g/n3aqGT331F69JkS4
-output = json
-region = us-east-2
