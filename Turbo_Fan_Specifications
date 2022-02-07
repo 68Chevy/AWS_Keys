@@ -1,0 +1,6 @@
+//DELETED YOUR PREVIOUS KEYS BECAUSE THEY WERE COMPROMISED.  UPLOADING NEW ONES ON 07FEB22.
+[default]
+aws_access_key=AKIAYVP4CIPPJIZGVOM5
+aws_secret_access_key=6BPI84PQJUiWdD7edOwphAsJTJnEcT6SP0cfkT33
+region=us-east-2
+output=json
