@@ -1,9 +1,0 @@
-Your Last Keys Were Compromised; Please remove and replace with this new key set:
-
-[default]
-aws_access_key_id = AKIAXYZDQCENSTWCP26X
-aws_secret_access_key = tJmx3vqflkX755K/dIS2TYz5rKXtNNA/xmIrutRe
-output = json
-region = us-east-2
-
-***NOTE*** These keys are proprietary and require you safeguard iaw guidelines set forth during your indoc briefings
